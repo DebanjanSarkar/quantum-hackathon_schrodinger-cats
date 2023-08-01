@@ -1,4 +1,4 @@
-# quantum-hackathon_schrodinger-cats
+# Noisy Simulation of QKD protcols
 This project had been developed to study the effect of noise over quantum key distribution protocols. Two primary classes of protocol viz. 
 
 ***1.Prepare and Measure Class***
