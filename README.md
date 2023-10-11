@@ -1,4 +1,5 @@
-#Behavioral study of two board classes of QKD protocol in density matrix simulation.
+***Behavioral study of two board classes of QKD protocol in density matrix simulation.***
+
 This project had been developed to study the effect of noise over quantum key distribution protocols. Two primary classes of protocol viz. 
 
 ***1.Prepare and Measure Class***
